@@ -96,7 +96,6 @@
 | **KCNA: Kubernetes and Cloud Native Associate** | CNCF | ![CNCF](https://img.shields.io/badge/CNCF-Certified-blue?style=for-the-badge&logo=cncf) |
 | **LFS250: Kubernetes and Cloud Native Essentials** | Linux Foundation | ![Linux](https://img.shields.io/badge/Linux-Foundation-yellow?style=for-the-badge&logo=linux) |
 | **CCNA: Switching, Routing, and Wireless Essentials** | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-CCNA-green?style=for-the-badge&logo=cisco) |
-| **UNESCO Hackathon Winner 🏆** | UNESCO & Cadi Ayyad University | ![Winner](https://img.shields.io/badge/1st-Place-gold?style=for-the-badge&logo=trophy) |
 
 </div>
 
@@ -135,26 +134,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaRek&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaRek&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaRek&custom_title=Zakaria's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=667eea&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
-</div>
 
----
-
-## 🎓 Education Journey
-
-**🎓 Master's in Information Systems Engineering** *(2024-2026)*  
-*Faculty of Sciences Semlalia Marrakech (FSSM)* - In Progress
-
-**🎓 Professional Bachelor's - Information Systems & Networks Engineering** *(2023-2024)*  
-*Higher School of Technology Safi* - Honors
-
-**🎓 University Diploma of Technology - Computer Engineering** *(2021-2023)*  
-*Higher School of Technology Safi* - Honors
 
 ---
 
@@ -181,13 +162,7 @@
 
 ---
 
-## 🌐 Languages
 
-- 🇲🇦 **Arabic:** Native
-- 🇫🇷 **French:** Fluent (B2 Level)
-- 🇺🇸 **English:** Professional (B2 Level)
-
----
 
 ## 📫 Let's Connect!
 
@@ -195,7 +170,7 @@
   
 **Ready to collaborate on exciting projects? Let's build something amazing together!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakariarekhla-2116a72a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-rekhla-2116a72a1/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zakariaest49@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+212648175782)
 
