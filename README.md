@@ -93,7 +93,7 @@
   
 | Certification | Issuer | Badge |
 |---------------|--------|--------|
-| **KCNA: Kubernetes and Cloud Native Associate** | CNCF | ![CNCF](https://img.shields.io/badge/CNCF-Certified-blue?style=for-the-badge&logo=cncf) |
+| **KCNA: Kubernetes and Cloud Native Associate** | CNCF | ![CNCF](https://www.credly.com/badges/ff85a052-4798-41e9-8def-b84ff9a3f97c/public_url) |
 | **LFS250: Kubernetes and Cloud Native Essentials** | Linux Foundation | ![Linux](https://img.shields.io/badge/Linux-Foundation-yellow?style=for-the-badge&logo=linux) |
 | **CCNA: Switching, Routing, and Wireless Essentials** | Cisco | ![Cisco](https://img.shields.io/badge/Cisco-CCNA-green?style=for-the-badge&logo=cisco) |
 
