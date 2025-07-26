@@ -107,19 +107,19 @@
 <div align="center">
 
 ### 🏢 Room Reservation System - Microservices Architecture
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/room-reservation-system)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZakariaRek/room-reservation-system)
 
 **Complete microservices platform with JWT authentication and granular authorization**
 - **Tech Stack:** Spring Boot, Spring Security, JPA/Hibernate, MySQL, Angular 16+, Docker, GitHub Actions
 
 ### 🛒 Distributed E-commerce Platform
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yourusername/ecommerce-microservices)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZakariaRek/ecommerce-microservices)
 
 **Scalable microservices platform with advanced observability**
 - **Tech Stack:** Spring Boot, Go, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Zipkin
 
 ### 🌱 TERRAP-POD - Water4Future (Hackathon Winner)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/posts/your-post)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/posts/zakariarekhla-2116a72a1/your-post-url)
 
 **1st Place Winner - Innovative modular vertical farming solution**
 - **Achievement:** Winner among 20+ teams at UNESCO & Cadi Ayyad University Hackathon
@@ -131,16 +131,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZakariaRek&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakariaRek&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaRek&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Zakaria's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=667eea&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaRek&custom_title=Zakaria's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=667eea&line=667eea&point=667eea&area_color=FFFFFF&title_color=FFFFFF&area=true"/>
 </div>
 
 ---
@@ -204,7 +204,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ZakariaRek&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <div align="center">
