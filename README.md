@@ -101,30 +101,6 @@
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-### 🏢 Room Reservation System - Microservices Architecture
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZakariaRek/room-reservation-system)
-
-**Complete microservices platform with JWT authentication and granular authorization**
-- **Tech Stack:** Spring Boot, Spring Security, JPA/Hibernate, MySQL, Angular 16+, Docker, GitHub Actions
-
-### 🛒 Distributed E-commerce Platform
-[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ZakariaRek/ecommerce-microservices)
-
-**Scalable microservices platform with advanced observability**
-- **Tech Stack:** Spring Boot, Go, PostgreSQL, MongoDB, Redis, Kafka, ELK Stack, Zipkin
-
-### 🌱 TERRAP-POD - Water4Future (Hackathon Winner)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Post-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/posts/zakariarekhla-2116a72a1/your-post-url)
-
-**1st Place Winner - Innovative modular vertical farming solution**
-- **Achievement:** Winner among 20+ teams at UNESCO & Cadi Ayyad University Hackathon
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
