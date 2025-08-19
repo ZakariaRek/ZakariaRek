@@ -30,15 +30,12 @@
 
 ---
 
-<details><summary><h2>🕵️‍♂️ Who Am I?</h2></summary>
 
 **Passionate Spring Boot Developer with a strong foundation in Microservices architecture and Cloud Native technologies. I'm currently pursuing my Master's in Information Systems Engineering at Faculty of Sciences Semlalia Marrakech, building upon my solid background in software engineering and system administration.**
 
 **My journey spans from developing comprehensive web platforms to winning hackathons with innovative solutions. I specialize in creating scalable, secure backend applications using Spring Security, JPA/Hibernate, and modern DevOps practices. As a CNCF Certified professional, I bring expertise in Docker containerization, Kubernetes orchestration, and cloud deployment strategies.**
 
 **I'm driven by the challenge of solving complex problems through elegant code and robust system design. Whether it's architecting microservices platforms or implementing CI/CD pipelines, I'm always eager to push the boundaries of what's possible with technology.**
-
-</details>
 
 ---
 
