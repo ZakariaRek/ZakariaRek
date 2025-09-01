@@ -4,11 +4,11 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=667EEA&size=35&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Zakaria+Rekhla;Spring+Boot+%26+Microservices+Expert;Cloud+Native+Developer;CNCF+Certified+Professional" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=667EEA&size=35&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Zakaria+Rekhla;DevOps+%7C+Kubernetes+%7C+Spring+Boot+%26+Microservices;CNCF+CERTIFIED;Cloud+Native+Developer" alt="Typing SVG" />
   </a>
 </h1>
 
-<h3 align="center">🚀 Spring Boot & Microservices Specialist | ☁️ Cloud Native Developer | 🛠️ DevOps Enthusiast</h3>
+<h3 align="center">🚀 DevOps | Kubernetes | Spring Boot & Microservices | CNCF CERTIFIED</h3>
 
 <div align="center">
   <img align="center" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" />
