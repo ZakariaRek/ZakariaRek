@@ -4,7 +4,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=667EEA&size=35&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Zakaria+Rekhla;DevOps+%26+Cloud+Native+Engineer;Kubernetes+%7C+Docker+%7C+Spring+Boot;CKA+%26+CNCF+CERTIFIED+%F0%9F%8F%86;UNESCO+Hackathon+Winner+2024" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=667EEA&size=35&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Zakaria+Rekhla;DevOps+%26+Cloud+Native+Engineer;Kubernetes+%7C+Docker+%7C+Spring+Boot;CKA+%26+CNCF+CERTIFIED+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -25,6 +25,10 @@
   </a>
   <a href="tel:+212648175782" target="_blank">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  
+  <a href="https://zakariarek.github.io/ZakariaRekhla/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
    
 </p>
